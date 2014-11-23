@@ -195,4 +195,7 @@ class HomeController extends AppController {
     curl_close($ch);
   }
 
+  public function test(){
+    
+  }
 }
